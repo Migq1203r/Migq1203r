@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Migq1203r/Migq1203r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Migq1203r, also called Miguel
 
-Here are some ideas to get you started:
+**Languages of I speak:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_Brazil.svg.png" width="70" height="50"> **and**  <img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_the_United_States.svg" width="100" height="50">
+
+**Languages of I programing:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70" height="50"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70" height="50"/>
+          
+
+# ***About Me: ⁉️***
+
+- 🧑‍💼 I’m don't have work
+- 👨‍🎓 I’m currently learning in App Brewery <img src="https://github.com/Migq1203r/Migq1203r/blob/main/lablogo.png" width="35" height="35"> [Link](https://appbrewery.com/)
+- 👨‍🎓 I'm a beginner to intermediate 
+- 👓 - I know a little about cybersecurity, but very little.
+- 🏳️ - I'm from Brazil <img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_Brazil.svg.png" width="30" height="20">
+# **📽️ Some of my projects:**
+
+[PaisGenerator](https://github.com/Migq1203r/PaisGenerator)
+
+[KeyLogger in Python](https://github.com/Migq1203r/Keylogger-CUIDADO-_____________-------)
+
+[Pizza Delivery](https://github.com/Migq1203r/Pizza-Delivery)
+
+[Find The Dragon 🐲](https://github.com/Migq1203r/Find-the-Dragon)
+
+[Tip Calculator](https://github.com/Migq1203r/Tip-Calculator)
+
+**You find Me In:**
+
+  <a href="mailto:migrdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
