@@ -4,7 +4,7 @@
 
 **Languages of I speak:**
 
-<img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_Brazil.svg.png" width="70" height="50"> **and**  <img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_the_United_States.svg" width="100" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="70" height="50"> **and**  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" width="100" height="50">
 
 **Languages of I programing:**
 
