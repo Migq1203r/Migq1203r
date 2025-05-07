@@ -17,7 +17,7 @@
 - 👨‍🎓 I’m currently learning in App Brewery <img src="https://github.com/Migq1203r/Migq1203r/blob/main/lablogo.png" width="35" height="35"> [Link for the Site](https://appbrewery.com/)
 - 👨‍🎓 I'm a beginner to intermediate 
 - 👓 - I know a little about cybersecurity, but very little.
-- 🏳️ - I'm from Brazil <img src="https://github.com/Migq1203r/Migq1203r/blob/main/Flag_of_Brazil.svg.png" width="30" height="20">
+- 🏳️ - I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
 [PaisGenerator](https://github.com/Migq1203r/PaisGenerator)
