@@ -20,7 +20,7 @@
 - 🏳️ - I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
-[PaisGenerator](https://github.com/Migq1203r/PaisGenerator)
+[HangMan Game In Python](https://github.com/Migq1203r/HangMan)
 
 [KeyLogger in Python](https://github.com/Migq1203r/Keylogger-CUIDADO-_____________-------)
 
