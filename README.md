@@ -20,9 +20,9 @@
 - 🏳️ - I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
-[HangMan Game In Python](https://github.com/Migq1203r/HangMan)
+[Caesar Ciphern](https://github.com/Migq1203r/Caesar-Cipher)
 
-[KeyLogger in Python](https://github.com/Migq1203r/Keylogger-CUIDADO-_____________-------)
+[HangMan Game In Python](https://github.com/Migq1203r/HangMan)
 
 [Pizza Delivery](https://github.com/Migq1203r/Pizza-Delivery)
 
