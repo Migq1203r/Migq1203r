@@ -20,7 +20,7 @@
 - 🏳️ - I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
-[Caesar Ciphern](https://github.com/Migq1203r/Caesar-Cipher)
+[Caesar Cipher](https://github.com/Migq1203r/Caesar-Cipher)
 
 [HangMan Game In Python](https://github.com/Migq1203r/HangMan)
 
