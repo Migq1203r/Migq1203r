@@ -20,6 +20,8 @@
 - 🏳️ - I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
+[🖩 Calculator](https://github.com/Migq1203r/calculator)
+
 [Caesar Cipher](https://github.com/Migq1203r/Caesar-Cipher)
 
 [HangMan Game In Python](https://github.com/Migq1203r/HangMan)
@@ -27,8 +29,6 @@
 [Pizza Delivery](https://github.com/Migq1203r/Pizza-Delivery)
 
 [Find The Dragon 🐲](https://github.com/Migq1203r/Find-the-Dragon)
-
-[PyUserNameAnonymity](https://github.com/Migq1203r/PyUserNameAnonymity)
 
 **You find Me In:**
 
