@@ -27,6 +27,8 @@
 - 🇧🇷 I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
 # **📽️ Some of my projects:**
 
+[Quiz Game 🍰](https://github.com/Migq1203r/quiz_game_python_oop)
+
 [📱 NoGui_gram -- A social media App](https://github.com/Migq1203r/nogui_gram)
 
 [☕ Coffee Machine Maked With OOP](https://github.com/Migq1203r/coffee_machine_with_oop)
@@ -34,8 +36,6 @@
 [☕ Coffee Machine](https://github.com/Migq1203r/coffee_machine)
 
 [Higher Lower Game ⬆️⬇️](https://github.com/Migq1203r/higher_lower_game)
-
-[🔢 Guess the Number](https://github.com/Migq1203r/guess_the_number)
 
 ## **You can find me on:**
 
