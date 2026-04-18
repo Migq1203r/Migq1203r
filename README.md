@@ -21,7 +21,7 @@
 ## **About Me: ⁉️**
 
 - 🧑‍💼 I'm currently unemployed
-- 👨‍🎓 I'm currently studying at App Brewery <img src="https://github.com/Migq1203r/Migq1203r/blob/main/lablogo.png" width="25" height="25"> [Visit the website](https://appbrewery.com/)
+- 👨‍🎓 I'm currently studying Python
 - 👨‍🎓 I'm a beginner to intermediate programmer
 - 👓 I know a little about cybersecurity, but very little.
 - 🇧🇷 I'm from Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30" height="20">
